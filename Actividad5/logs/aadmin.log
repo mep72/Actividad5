@@ -1,0 +1,26 @@
+2017-09-24 23:20:34.299 [main] INFO  io.AAdmin - Listar contenido seleccionado.
+2017-09-24 23:21:21.483 [main] INFO  io.AAdmin - Listando contenidos de apache-log4j-2.9.1-bin
+2017-09-24 23:21:21.497 [main] INFO  io.AAdmin - Se encontraron 46 elementos
+2017-09-24 23:21:21.541 [main] INFO  io.AAdmin - Resultados guardados en apache-log4j-2.9.1-bin.txt
+2017-09-24 23:21:24.699 [main] INFO  io.AAdmin - Listar contenido seleccionado.
+2017-09-24 23:21:50.362 [main] INFO  io.AAdmin - Listando contenidos de apache-log4j-2.9.1-bin
+2017-09-24 23:21:50.363 [main] INFO  io.AAdmin - Se encontraron 46 elementos
+2017-09-24 23:21:50.379 [main] INFO  io.AAdmin - Resultados guardados en apache-log4j-2.9.1-bin.txt
+2017-09-24 23:21:52.510 [main] INFO  io.AAdmin - Listar contenido seleccionado.
+2017-09-24 23:22:09.216 [main] INFO  io.AAdmin - Listando contenidos de home
+2017-09-24 23:22:09.640 [main] INFO  io.AAdmin - Se encontraron 11229 elementos
+2017-09-24 23:25:04.032 [main] INFO  io.AAdmin - Listar contenido seleccionado.
+2017-09-24 23:25:26.158 [main] INFO  io.AAdmin - Listando contenidos de Documents
+2017-09-24 23:25:26.183 [main] INFO  io.AAdmin - Se encontraron 99 elementos
+2017-09-24 23:25:33.775 [main] INFO  io.AAdmin - Listar contenido seleccionado.
+2017-09-24 23:25:45.047 [main] INFO  io.AAdmin - Listando contenidos de Documents
+2017-09-24 23:25:45.049 [main] INFO  io.AAdmin - Se encontraron 99 elementos
+2017-09-24 23:25:45.090 [main] INFO  io.AAdmin - Resultados guardados en Documents.txt
+2017-09-24 23:25:52.534 [main] INFO  io.AAdmin - Listar contenido seleccionado.
+2017-09-24 23:26:00.106 [main] INFO  io.AAdmin - Listando contenidos de home
+2017-09-24 23:26:00.316 [main] INFO  io.AAdmin - Se encontraron 11232 elementos
+2017-09-24 23:38:26.072 [main] INFO  io.AAdmin - Listar contenido seleccionado.
+2017-09-24 23:38:42.751 [main] INFO  io.AAdmin - Listando contenidos de Documents
+2017-09-24 23:38:42.758 [main] INFO  io.AAdmin - Se encontraron 99 elementos
+2017-09-24 23:38:42.788 [main] INFO  io.AAdmin - Resultados guardados en Documents.txt
+2017-09-24 23:38:45.872 [main] INFO  io.AAdmin - Saliendo...
